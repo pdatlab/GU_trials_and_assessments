@@ -1,6 +1,10 @@
 # MESA #
 
+Medical, Epidemiologic, and Social Aspects of Aging (MESA)
+
 # Contents #
+
+From Diokno et al. 2002
 
 **Urge incontinence questions:**
 1. Some people receive very little warning and suddenly find that they are losing, or about to lose, urine beyond their control. How often does this happen to you? 
@@ -44,5 +48,5 @@ Scores are calculated separately for Urge and Stress Incontinence with maximum v
 
 # Validation and Early Papers #
 
-
+- Herzog AR, Diokno AC, Brown MB, Normolle DP, Brock BM. Two-year incidence, remission, and change patterns of urinary incontinence in noninstitutionalized older adults. J Gerontol 45: M67-74, 1990.
 - Diokno AC, Catipay JRC, Steinert BW. Office assessment of patient outcome of pharmacologic therapy for urge incontinence. Int Urogynecol J Pelvic Floor Dysfunct 13: 334–338, 2002.

@@ -1,6 +1,9 @@
 # OAB-q #
 
-
+## Short Form ##
+The short form has two components:
+1. Bother
+2. QOL questions - Health Related Quality of Life (HRQL)
 
 # Papers #
 

@@ -5,10 +5,14 @@ Incontinence Impact Questionnaire
 Examines impact of urinary leakage and/or prolapse on a variety of activities.
 Answers, at least for the IIQ-SF, are: not at all, slightly, moderately, and greatly
 
+# Form #
+
+[Click here to see the form IIQ-7 SF](UI_Tool_2_IIQ7_SF.pdf)
+
 # Paper #
 
-**IIQ-7 - Short Form **
-- Uebersax JS, Wyman JF, Shumaker SA, McClish DK, Fantl JA. Short forms to assess life quality and symptom distress for urinary incontinence in women: the Incontinence Impact Questionnaire and the Urogenital Distress Inventory. Neurourol Urodyn. 1995;14(2):131–9. 
+**IIQ-7 - Short Form**:
+- Uebersax JS, Wyman JF, Shumaker SA, McClish DK, Fantl JA. Short forms to assess life quality and symptom distress for urinary incontinence in women: the Incontinence Impact Questionnaire and the Urogenital Distress Inventory. Neurourol Urodyn. 1995;14(2):131â€“9. 
 
 # Scoring #
 
